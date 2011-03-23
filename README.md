@@ -1,5 +1,6 @@
 Example Repository Readme
 =========================
 
-This is an example repository, here for a tutorial.
+This is the README for this project, which houses a classy octocat.
+
 
