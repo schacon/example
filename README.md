@@ -7,7 +7,6 @@ I just wanna test it!
 
 yes!
 
-no!
 
 System.out.println("i love github");
 asdasdasd
