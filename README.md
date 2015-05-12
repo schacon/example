@@ -1,5 +1,5 @@
 Example Repository Readme
 =========================
 
-This is an example repository, here for a tutorial.
+This is an example git repository for a tutorial.
 
