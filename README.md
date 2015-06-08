@@ -1,5 +1,6 @@
-Example Repository Readme
-=========================
+[![Build Status](https://travis-ci.org/mike-charles/example.svg?branch=master)](https://travis-ci.org/mike-charles/example)
 
-This is an example repository, here for a tutorial.
+Example Git Repository Readme
+=============================
 
+This is an example...
