@@ -1,1 +1,2 @@
 .
+-e git://github.com/mozilla/elasticutils.git#egg=elasticutils
