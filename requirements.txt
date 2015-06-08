@@ -1,2 +1,2 @@
 .
--e git://github.com/mozilla/elasticutils.git#egg=elasticutils
+-e git://github.com/mike-charles/example2.git#egg=example2
