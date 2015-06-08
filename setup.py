@@ -8,4 +8,7 @@ setup(name='example',
       author_email='mike.charles@example.com',
       license='MIT',
       packages=['example'],
+      install_requires=[
+            'example2'
+      ],
       zip_safe=False)
